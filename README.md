@@ -1,0 +1,2 @@
+# platformautoplug
+基于android的无障碍服务免root的可以自动刷抖音快手等平台的薅羊毛插件，仅用于技术交流
