@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">平台自动插件</string>
+
+    <string name="accessibility_service_description">这是各个平台的自动刷视频或新闻的插件!</string>
+</resources>
